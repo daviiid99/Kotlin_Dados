@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">kotlin_clase</string>
+    <string name="frase_2">¿Compartes uno?</string>
+    <string name="frase_3">Formamos un triangulo!</string>
+    <string name="frase_4">¿Tengo forma cuadrada?</string>
+    <string name="frase_5">5 lobitos tiene la loba</string>
+    <string name="frase_6">Miro como vuelo, soy una cometa</string>
+    <string name="frase_7">7 días tiene una semana</string>
+    <string name="frase_8">Hasta el infinito y más allá!</string>
+    <string name="frase_9">Maldito estás!</string>
+    <string name="frase_10">10 son multitud</string>
+    <string name="frase_11">Interesante, muy interesante</string>
+    <string name="frase_12">12 meses tiene un año</string>
 </resources>
